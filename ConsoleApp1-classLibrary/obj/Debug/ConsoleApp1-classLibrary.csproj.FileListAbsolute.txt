@@ -1,0 +1,11 @@
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\bin\Debug\ConsoleApp1-classLibrary.exe.config
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\bin\Debug\ConsoleApp1-classLibrary.exe
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\bin\Debug\ConsoleApp1-classLibrary.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\bin\Debug\ClassLibrary1.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\bin\Debug\ClassLibrary1.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\obj\Debug\ConsoleApp1-classLibrary.csproj.AssemblyReference.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\obj\Debug\ConsoleApp1-classLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\obj\Debug\ConsoleApp1-classLibrary.csproj.CoreCompileInputs.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\obj\Debug\ConsoleApp1-classLibrary.csproj.CopyComplete
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\obj\Debug\ConsoleApp1-classLibrary.exe
+C:\Users\anshu\OneDrive\Desktop\.Net training\ClassLibrary1\ConsoleApp1-classLibrary\obj\Debug\ConsoleApp1-classLibrary.pdb
